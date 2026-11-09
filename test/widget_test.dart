@@ -15,6 +15,7 @@ void main() {
     );
 
     expect(find.text('NovaWallet'), findsWidgets);
-    expect(find.text('Total Wallet Balance'), findsWidgets);
+    expect(find.text('TOTAL LIQUID BALANCE'), findsWidgets);
+    expect(find.text('Weekly Spending Trends'), findsWidgets);
   });
 }
