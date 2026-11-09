@@ -109,7 +109,7 @@ class _MainShellState extends State<MainShell> {
                                   borderRadius: BorderRadius.circular(12),
                                 ),
                                 child: const Text(
-                                  '24XV1M7606',
+                                  'Aarav Mehta',
                                   style: TextStyle(fontSize: 11, fontWeight: FontWeight.bold),
                                 ),
                               ),

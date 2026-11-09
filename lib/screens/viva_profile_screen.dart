@@ -13,7 +13,7 @@ class VivaProfileScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Student Profile & Viva Checklist'),
+        title: const Text('Account Profile & Architecture'),
       ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(20),
@@ -23,7 +23,7 @@ class VivaProfileScreen extends StatelessWidget {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                // Student Information Card
+                // User Profile Card
                 Card(
                   child: Padding(
                     padding: const EdgeInsets.all(20),
@@ -33,7 +33,7 @@ class VivaProfileScreen extends StatelessWidget {
                           radius: 34,
                           backgroundColor: theme.colorScheme.primary,
                           child: const Text(
-                            'DP',
+                            'AM',
                             style: TextStyle(
                               color: Colors.white,
                               fontSize: 22,
@@ -47,7 +47,7 @@ class VivaProfileScreen extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               const Text(
-                                'Gopu Danny Prajwal Reddy',
+                                'Aarav Mehta',
                                 style: TextStyle(
                                   fontSize: 18,
                                   fontWeight: FontWeight.bold,
@@ -55,7 +55,7 @@ class VivaProfileScreen extends StatelessWidget {
                               ),
                               const SizedBox(height: 4),
                               Text(
-                                'Roll No: 24XV1M7606',
+                                'Wallet ID: NV-849201',
                                 style: TextStyle(
                                   color: theme.colorScheme.primary,
                                   fontWeight: FontWeight.bold,
@@ -63,7 +63,7 @@ class VivaProfileScreen extends StatelessWidget {
                               ),
                               const SizedBox(height: 2),
                               const Text(
-                                'Applied Mathematics (AM) • CRRAO AIMSCS',
+                                'NovaPay Prime • Verified Account',
                                 style: TextStyle(fontSize: 13, color: Colors.grey),
                               ),
                             ],

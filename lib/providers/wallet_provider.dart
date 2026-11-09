@@ -34,7 +34,7 @@ class WalletProvider extends ChangeNotifier {
   final List<VirtualCardModel> _cards = [
     VirtualCardModel(
       id: 'c-1',
-      cardHolder: 'GOPU DANNY PRAJWAL',
+      cardHolder: 'AARAV MEHTA',
       cardNumber: '4532 8921 7845 9012',
       expiryDate: '09/29',
       cvv: '842',
@@ -44,7 +44,7 @@ class WalletProvider extends ChangeNotifier {
     ),
     VirtualCardModel(
       id: 'c-2',
-      cardHolder: 'GOPU DANNY PRAJWAL',
+      cardHolder: 'AARAV MEHTA',
       cardNumber: '5241 6789 3412 4490',
       expiryDate: '12/28',
       cvv: '319',

@@ -72,7 +72,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                       ),
                     ),
                     Text(
-                      'Welcome back, Danny • 24XV1M7606',
+                      'Welcome back, Aarav • Prime Account',
                       style: TextStyle(
                         color: isDark ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
                         fontSize: 11,

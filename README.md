@@ -1,11 +1,8 @@
 # NovaWallet — Modern Digital Wallet & FinTech Platform
 
-**Developed for UI / Flutter Laboratory Examination**  
-* **Application Topic:** Digital Wallet Application (Topic #23)  
-* **Student Name:** Gopu Danny Prajwal Reddy  
-* **Roll Number:** `24XV1M7606`  
-* **Branch:** Applied Mathematics (AM)  
-* **Institution:** CR Rao Advanced Institute of Mathematics, Statistics and Computer Science (CRRAO AIMSCS)  
+**Modern Responsive FinTech Digital Wallet Application Built with Flutter Web**  
+* **Application Category:** Digital Wallet & Peer-to-Peer Payments  
+* **Demo Account Profile:** Aarav Mehta (`NV-849201`)  
 * **Live Web App:** [https://dannyprajwal2028.github.io/ui_flutter/](https://dannyprajwal2028.github.io/ui_flutter/)  
 * **Repository:** [https://github.com/DannyPrajwal2028/ui_flutter](https://github.com/DannyPrajwal2028/ui_flutter)  
 
